@@ -1,0 +1,2 @@
+[console_scripts]
+hal-discovery = hal_discovery.cli:main

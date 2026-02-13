@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/hal_discovery/__init__.py
+src/hal_discovery/annotate.py
+src/hal_discovery/cli.py
+src/hal_discovery/mine.py
+src/hal_discovery/paths.py
+src/hal_discovery/pipeline.py
+src/hal_discovery.egg-info/PKG-INFO
+src/hal_discovery.egg-info/SOURCES.txt
+src/hal_discovery.egg-info/dependency_links.txt
+src/hal_discovery.egg-info/entry_points.txt
+src/hal_discovery.egg-info/requires.txt
+src/hal_discovery.egg-info/top_level.txt
+src/hal_discovery/steps/__init__.py
+src/hal_discovery/steps/step1_family_space.py
+src/hal_discovery/steps/step2_interpro_retrieval.py

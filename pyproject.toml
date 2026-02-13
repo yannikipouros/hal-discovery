@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hal-discovery"
+version = "0.1.0"
+description = "Pipeline for structural mining of putative radical halogenases"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "numpy",
+  "requests",
+  "biopython",
+]
+
+[project.scripts]
+hal-discovery = "hal_discovery.cli:main"
