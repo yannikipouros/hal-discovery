@@ -8,8 +8,8 @@ It contains:
 To run:
 
 hal-discovery mine \
-  --pdb-dir Demo/Demo_dataset \
-  --outdir Demo_output
+  --pdb-dir demo/demo_dataset \
+  --outdir demo_output
 
 Expected summary:
 {
