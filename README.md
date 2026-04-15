@@ -178,8 +178,8 @@ The dataset is provided as PDB files (not accession IDs) to ensure reproducibili
 Navigate to the demo dataset directory and run:
 
 hal-discovery mine \
-  --pdb-dir Demo/Demo_dataset \
-  --outdir Demo_output
+  --pdb-dir demo/demo_dataset \
+  --outdir demo_output
 
 ---
 
