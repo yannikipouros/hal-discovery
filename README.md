@@ -2,7 +2,8 @@
 
 This Python package contains the code for the discovery of new radical halogenases presented in the following manuscript:
 
-"Discovery of radical halogenases via metal-coordination mining"  
+"Targeted Enzyme Discovery using Metal-Coordination Mining"
+"  
 Ioannis Kipouros and Michelle Chang
 
 ---
